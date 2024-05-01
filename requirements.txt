@@ -1,0 +1,14 @@
+pyttsx3
+SpeechRecognition
+Pyaudio
+py3-tts
+decouple
+datetime
+keyboard
+pynput
+requests
+wikipedia
+pywhatkit
+duckduckgo-search
+wolframalpha
+arxiv
